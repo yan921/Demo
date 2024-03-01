@@ -6,7 +6,7 @@ The code in this toolbox implements the "Sparse PCA via L2,0-Norm Constrained Op
 
 ### Quick Testing
 
-Directly run demo.py to train models using the dataset of ship.
+Download and run demo.m to train models using the dataset of COIL20.
 
 ### Citation
 Please give credit to this paper if this code is useful and helpful for your research.
